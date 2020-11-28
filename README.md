@@ -2,6 +2,6 @@
 
 - clone repo
 
-- run npx servor
+- run **npx servor**
 
 - open browser
